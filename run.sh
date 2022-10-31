@@ -1,0 +1,1 @@
+export HF_HOME="/data/wangyuanchun/fromHF"
